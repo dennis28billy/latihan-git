@@ -13,3 +13,4 @@ console.log("Baris ketujuh");
 //Jumat
 console.log("Baris kedelapan");
 console.log("Dennis Billy");
+console.log("Timothy Tiwow");
